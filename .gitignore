@@ -1,0 +1,17 @@
+/env
+/tags
+/plots
+/saved_notebooks
+/saved_runs
+.*.swp
+*.swp
+*.egg-info
+*.pot
+*.py[co]
+__pycache__
+.idea/
+.dev.yaml
+
+.ipynb_checkpoints
+*.ipynb
+/.cache
